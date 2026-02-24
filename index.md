@@ -3,7 +3,7 @@
       color: #ffffff;
       }
     body {
-      color: #2f353d;
+      background-color: #2f353d;
      }
   </style>
 <p>imacat is stinky</p>
