@@ -1,5 +1,11 @@
-<body style="background-color: #2f353d;">
-<p style="color: #ffffff;">imacat is stinky</p>
-<p style="color: #ffffff;">hii, welcome to mah website!</p>
-<p style="color: #ffffff;">:3</p>
-/* kinda shit fix, will deal with sometime -w- */
+<style>
+    p {
+      color: #ffffff;
+      }
+    body {
+      color: #2f353d;
+     }
+  </style>
+<p>imacat is stinky</p>
+<p>hii, welcome to mah website!</p>
+<p>:3</p>
