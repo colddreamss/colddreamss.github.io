@@ -14,4 +14,5 @@
 <p>:3</p>
 <h1>kitty!</h1>
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/8daed688-da00-455b-a8d6-f5c1573dd593" />
+<p></p>
 <a href="https://colddreamss.github.io/cat.html">imacat's website!</a>
