@@ -8,6 +8,29 @@
     body {
       background-color: #2f353d;
      }
+    a:link {
+  color: #ffffff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #ffffff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffffff;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #ffffff;
+  background-color: transparent;
+  text-decoration: underline;
+}
   </style>
 <p>imacat is stinky</p>
 <p>hii, welcome to mah website!</p>
