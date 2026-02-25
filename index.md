@@ -40,4 +40,7 @@ a:active {
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/8daed688-da00-455b-a8d6-f5c1573dd593" />
 <p></p>
 <a href="https://colddreamss.github.io/cat.html">imacat's website!</a>
+<a href="https://realsgii2.dev/" target="_blank" rel="noreferrer" style="display: block; width: 168px; height: 48px; margin: 8px auto;">
+	<object data="https://realsgii2.dev/share/button.svg" style="position: relative; z-index: -1; outline: none; border-radius: 6px; border: solid 1px rgba(255, 255, 255, 0.1)" />
+</a>
   </div>
