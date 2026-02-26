@@ -42,6 +42,8 @@ a:active {
 <a href="https://colddreamss.github.io/cat.html">imacat's website!</a>
 <a href="https://realsgii2.dev/" target="_blank" rel="noreferrer" style="display: block; width: 168px; height: 48px; margin: 8px auto;">
 	<object data="https://realsgii2.dev/share/button/large_anim.svg" style="position: relative; z-index: -1; outline: none; border-radius: 6px; border: solid 1px rgba(255, 255, 255, 0.1)" />
-	<img width="88" height="31" alt="cd" src="https://github.com/colddreamss/colddreamss.github.io/blob/main/cd..svg" />
+		<svg width="100" height="100" xmlns="https://raw.githubusercontent.com/colddreamss/colddreamss.github.io/5cbc87d8db9bf8d3c3cb1af64473de2f76dc629a/cd..svg">
+    <circle cx="50" cy="50" r="40" stroke="white" stroke-width="4" fill="white" />
+  </svg>
 </a>
   </div>
