@@ -1,7 +1,35 @@
 Hey, who's the little hacker here?
-  Nah, just kiddin'. Welcome to the funniest easter egg on the internet, humans.txt!
+
+  Nah, just kiddin'. Welcome to the funniest easter egg on the internet [citation needed], humans.txt!
+
   Context: robots.txt is a document built into almost any modern website which gives instructions to any search engine crawler to ignore the website.
   As a fun joke, some cool dudes decided to integrate joke humans.txt documents into their websites as a little fun easter egg!
+
   I think.
+
   Alright, fun's done.
-  https://colddreamss.github.io/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .----------------.  .----------------.  .----------------.  .----------------.  .----------------. 
+| .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |
+| |      ___     | || |     ______   | || |  ________    | || |              | || |     ___      | |
+| |     |  _|    | || |   .' ___  |  | || | |_   ___ `.  | || |              | || |    |_  |     | |
+| |     | |      | || |  / .'   \_|  | || |   | |   `. \ | || |              | || |      | |     | |
+| |     | |      | || |  | |         | || |   | |    | | | || |              | || |      | |     | |
+| |     | |_     | || |  \ `.___.'\  | || |  _| |___.' / | || |      _       | || |     _| |     | |
+| |     |___|    | || |   `._____.'  | || | |________.'  | || |     (_)      | || |    |___|     | |
+| |              | || |              | || |              | || |              | || |              | |
+| '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
+ '----------------'  '----------------'  '----------------'  '----------------'  '----------------' 
